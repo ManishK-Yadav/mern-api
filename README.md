@@ -1,4 +1,4 @@
-#JavaScript
+# JavaScript
 -High-level programming language
 -Interpreted programming language->means check line by line if there is error than not run the code from there(furthur)
 -Built on C++(this programming language is built using C++)
@@ -21,3 +21,15 @@ Q. why using express instead of node-> we use rod in many work like home and bri
 4.MONGODB
 5.REACT
 6.NEXTJS
+
+# Nodejs
+- it is a javascript runtime environment
+- Runtime: A program that runs another program
+- To run javascript code in local machine we need to install nodejs in our system
+- Built on C++
+- Built on top of Google Chrome V8 engine(V8 engine is an engine which is used to run javascript code in browser)
+- Used for:API,Micro-Services,real-time app,JSON-based API
+# Architecture of Nodejs
+- Single Threaded(thread-> smallest unit of operation)
+- Non-blocking operation-> time consuming code is sent to the worker thread and ohter codes are executed in main thread
+- Event-Driven->
